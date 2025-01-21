@@ -1,0 +1,19 @@
+@import url(styles/header.css);
+
+:root {
+    --branco: #FFFFFF;
+    --fonte-principal: "Inter", serif;
+    --cinza-claro: #667085;
+    --cinza-medio: #3A404E;
+    --cinza-escuro: #101828;
+    --vermelho: #8E2424;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1.5em 7em;
+    color: var(--cinza-claro);
+}
