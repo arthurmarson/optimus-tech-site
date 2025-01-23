@@ -1,0 +1,24 @@
+.metricas-container {
+    display: grid; /* Define o container como grid */
+    grid-template-columns: repeat(4, 1fr); /* Cria 4 colunas de tamanhos iguais */
+}
+
+.metricas-container__item {
+    margin: 0 1em;
+}
+
+.metricas-container__item__titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.metricas-container__item__sub-titulo {
+    font-size: 18px;
+    color: var(--cinza-escuro);
+    margin: 0.5em 0;
+}
+
+.metricas-container__item__texto {
+    font-weight: 400;
+}
