@@ -1,0 +1,27 @@
+.talentos-container {
+    text-align: center;
+    margin: 6em auto;
+}
+
+.talentos-container__introducao {
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--vermelho);
+}
+
+.talentos-container__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-escuro);
+    margin: 1em 0;
+}
+
+.talentos-container__texto {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 auto 3em auto;
+}
+
+.talentos-container__imagem {
+    width: 100%
+}
