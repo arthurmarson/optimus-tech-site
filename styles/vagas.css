@@ -1,0 +1,23 @@
+.vagas-container {
+    margin: 0 20% 0 20%;
+}
+
+.vagas-container__titulo {
+    font-size: 20px;
+    color: var(--cinza-escuro);
+    margin-bottom: 2.5em;
+}
+
+.vagas-container__sub-titulo {
+    font-size: 18px;
+    color: var(--cinza-escuro);
+    margin: 1em 0 2em 0;
+}
+
+.vagas-container__card {
+    margin: 0 0 6em 2em;
+}
+
+.vagas-container__card__info span {
+    margin-right: 2em;
+}
