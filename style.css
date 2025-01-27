@@ -3,6 +3,8 @@
 @import url(styles/metricas.css);
 @import url(styles/talentos.css);
 @import url(styles/vagas.css);
+@import url(styles/depoimentos.css);
+@import url(styles/footer.css);
 
 :root {
     --branco: #FFFFFF;
@@ -11,6 +13,7 @@
     --cinza-medio: #3A404E;
     --cinza-escuro: #101828;
     --vermelho: #8E2424;
+    --borda-cinza: #D0D5DD;
 }
 
 body {
